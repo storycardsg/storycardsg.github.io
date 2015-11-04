@@ -1,0 +1,60 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta http-equiv=Content-Type content="text/html; charset=UTF-8"><meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1"><title>StoryCard: Save a Story</title><meta name=description content="Save a Story"><meta name=author content=StoryCard><link rel=canonical href="http://storycardsg.github.io/grid/"><meta name=HandheldFriendly content="True"><meta name=MobileOptimized content="320"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=stylesheet href=/assets/css/storycard-min.css><meta property=og:locale content=en_US><meta property=og:type content=article><meta property=og:title content=StoryCard><meta property=og:description content="Save a Story"><meta property=og:url content="http://storycardsg.github.io/grid/"><meta property=og:site_name content=StoryCard><link rel=apple-touch-icon sizes=57x57 href=/apple-touch-icon-57x57.png><link rel=apple-touch-icon sizes=114x114 href=/apple-touch-icon-114x114.png><link rel=apple-touch-icon sizes=72x72 href=/apple-touch-icon-72x72.png><link rel=apple-touch-icon sizes=144x144 href=/apple-touch-icon-144x144.png><link rel=apple-touch-icon sizes=60x60 href=/apple-touch-icon-60x60.png><link rel=apple-touch-icon sizes=120x120 href=/apple-touch-icon-120x120.png><link rel=apple-touch-icon sizes=76x76 href=/apple-touch-icon-76x76.png><link rel=apple-touch-icon sizes=152x152 href=/apple-touch-icon-152x152.png><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon-180x180.png><link rel=icon type=image/png href=/favicon-192x192.png sizes=192x192><link rel=icon type=image/png href=/favicon-160x160.png sizes=160x160><link rel=icon type=image/png href=/favicon-96x96.png sizes=96x96><link rel=icon type=image/png href=/favicon-16x16.png sizes=16x16><link rel=icon type=image/png href=/favicon-32x32.png sizes=32x32><script type=text/javascript src=/assets/libs/jquery/jquery.min.js></script><script src=http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js></script><script src=/assets/js/storycard-scripts.js></script></head><body class=home-template><style>.grid {
+  position: relative;
+  /* fluffy */
+  margin: 0 auto;
+  width: 90%;
+  /* end fluffy */
+}
+
+.grid-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* fluffy */
+  width: 300px;
+  border-radius: 3px;
+  background-color: #EEE;
+  /* transition: .3s ease-in-out;*/
+  /* end fluffy */
+}
+.grid-item p{
+    margin: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+  .grid {
+    position: static;
+    /* fluffy */
+    margin: 0 auto;
+    width: 90%;
+    /* end fluffy */
+  }
+  .grid-item {
+    position: static;
+    /* fluffy */
+    width: auto;
+    border-radius: 3px;
+    background-color: transparent;
+    /* transition: .3s ease-in-out;*/
+    /* end fluffy */
+  }
+}</style><div class=grid><div class=grid-item><p><a href="/projects/grabhelp/">GrabHelp</a> SMS-based assistant for Universal Community Volunteerism</p></div><div class=grid-item><p><a href="/projects/baggins/">Baggins</a> Blockchain-based Universal, Perpetual Reward System. Best Tech - NEA Clean and Green Hackathon 2015</p></div><div class=grid-item><p><a href="/projects/stickers/">Stickers</a> Blended, fun and collaborative food journaling system using Computer Vision. Zuellig Pharma Switch Challenge - Smart Health CoLAB 2015</p></div><div class=grid-item><p><a href="/projects/chatty/">Chatty</a> SMS-based Smart Assistant for searching public transport data and travel direction without Internet connectivity. Best Use of Government Data (API), Best Use of Smart Living API and Best in Show - Smart Nation API CoLAB 2015</p></div><div class=grid-item><p><a href="/projects/catalyst/">Catalyst</a> Platform for ideas crowdsourcing at every customer touch points. 3rd Prize - DBS Talent Conference Hackathon 2015</p></div><div class=grid-item><p><a href="/projects/eva/">EVA</a> Smart Assistant using voice recognition and text-to-speech technology for grocery tracking. Tied 2nd Runner Up and Best Tech NEA Clean and Green Hackathon 2014</p></div><div class=grid-item><p><a href="/projects/peerpledge/">PeerPledge</a> Peer-to-peer microfunding app using direct carrier billing technology. Top 10 Finalist - SingTel Accelerator 2014</p></div><div class=grid-item><p><a href="/projects/smartport/">Smart Port</a> Interactive dashboard to visualise complex relationship of maritime data. Honorable Mention - Smart Port Hackathon 2014</p></div><div class=grid-item><p><a href="/projects/swipetap/">SwipeTap</a> Gesture-based keyboard for people with dexterity, physical and visual disability. Runner Up StartUpAsia 2014 Hackathon and Top 10 Finalist Enabling Community CoLab</p></div><div class=grid-item><p><a href="/projects/todaytomorrow/">Today Tomorrow</a> Real-time service to connect Chinatown visitors with local community of volunteers. 2nd Runner Up - Chinatown CoLab 2014</p></div><div class=grid-item><p><a href="/projects/foodtrek/">Food Trek</a> Resource Management and Map Visualisation System.</p></div><div class=grid-item><p><a href="/projects/venn/">Venn</a> Simplifying urban exploration and resource coordination through the intersection of space and time.</p></div></div><script type=text/javascript src=https://cdnjs.cloudflare.com/ajax/libs/minigrid/1.6.1/minigrid.min.js></script><script>(function() {
+  window.addEventListener('resize', function() {
+    console.log('resize!')
+    minigrid('.grid', '.grid-item', 6);
+  });
+
+  function load() {
+    console.log("load event detected!");
+    window.dispatchEvent(new Event('resize')); //manually trigger to fix gutter error
+  }
+  window.onload = load;
+})();</script><script type=text/javascript>var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-124394-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();</script></body></html>
