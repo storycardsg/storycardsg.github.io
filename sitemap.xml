@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-    
-    <url>
-      <loc>http://storycardsg.github.io/posts/getting-started-with-hubot</loc>
-      
-        <lastmod>2015-02-23T08:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
   
     
     <url>
       <loc>http://storycardsg.github.io/404.html</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -38,7 +23,7 @@
     <url>
       <loc>http://storycardsg.github.io/posts/category/article/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -53,22 +38,7 @@
     <url>
       <loc>http://storycardsg.github.io/basscss/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/cards/</loc>
-      
-        <lastmod>2015-02-27T00:00:00+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -83,7 +53,7 @@
     <url>
       <loc>http://storycardsg.github.io/posts/tag/code/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -98,7 +68,7 @@
     <url>
       <loc>http://storycardsg.github.io/posts/tag/competition/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -113,7 +83,7 @@
     <url>
       <loc>http://storycardsg.github.io/posts/tag/design/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -128,7 +98,7 @@
     <url>
       <loc>http://storycardsg.github.io/feed.xml</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -143,37 +113,7 @@
     <url>
       <loc>http://storycardsg.github.io/fullpage/</loc>
       
-        <lastmod>2015-02-27T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/fullpage/</loc>
-      
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/blog/</loc>
-      
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -188,7 +128,22 @@
     <url>
       <loc>http://storycardsg.github.io/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://storycardsg.github.io/blog/</loc>
+      
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -203,7 +158,7 @@
     <url>
       <loc>http://storycardsg.github.io/grid/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -218,7 +173,7 @@
     <url>
       <loc>http://storycardsg.github.io/posts/tag/personal/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -229,186 +184,6 @@
     </url>
     
   
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/baggins/</loc>
-      
-        <lastmod>2015-06-21T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/catalyst/</loc>
-      
-        <lastmod>2015-02-27T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/chatty/</loc>
-      
-        <lastmod>2015-03-21T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/eva/</loc>
-      
-        <lastmod>2014-11-16T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/foodtrek/</loc>
-      
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/grabhelp/</loc>
-      
-        <lastmod>2015-07-26T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/peerpledge/</loc>
-      
-        <lastmod>2014-10-20T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/smartport/</loc>
-      
-        <lastmod>2014-07-20T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/stickers/</loc>
-      
-        <lastmod>2015-05-21T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/swipetap/</loc>
-      
-        <lastmod>2014-04-06T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/todaytomorrow/</loc>
-      
-        <lastmod>2014-03-30T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/projects/venn/</loc>
-      
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
     
@@ -417,7 +192,7 @@
     <url>
       <loc>http://storycardsg.github.io/rss.xml</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -432,7 +207,7 @@
     <url>
       <loc>http://storycardsg.github.io/posts/category/showcase/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -443,28 +218,13 @@
     </url>
     
   
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/timeline/</loc>
-      
-        <lastmod>2015-02-27T00:00:00+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
     
   
     
     <url>
       <loc>http://storycardsg.github.io/posts/category/work/</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -479,22 +239,7 @@
     <url>
       <loc>http://storycardsg.github.io//rss.xml</loc>
       
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://storycardsg.github.io/categories/tech/</loc>
-      
-        <lastmod>2015-11-05T14:29:57+08:00</lastmod>
+        <lastmod>2015-11-06T11:32:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
